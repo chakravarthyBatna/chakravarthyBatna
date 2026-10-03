@@ -23,32 +23,11 @@ I'm a backend engineer at **WaveMaker**, a low-code platform that companies use 
 
 ---
 
-### 🚀 Featured projects
+### 🌍 Open source
 
-**[Parking Lot System](https://github.com/system-design-studio/parking-lot-system)** &nbsp;`Java 21` `Spring Boot 3` `PostgreSQL`<br/>
-A parking-lot backend designed end to end: requirements, REST APIs, HLD, LLD, and database schema. Two cars can never get the same spot, because spot assignment takes a row lock in PostgreSQL (`SELECT … FOR UPDATE SKIP LOCKED`).
+I contribute bug fixes to large open-source Java projects used in production by many companies. For each fix, I reproduce the bug in isolation, find the root cause in the source, and send a small change with tests. Maintainers review every change before it's merged.
 
-**[Leave Management App](https://github.com/wm-chakravarthy/LeaveManagementAppSpringSecurity)** &nbsp;`Spring MVC` `Spring Security` `Spring Data JPA` `MySQL`<br/>
-An employee leave system with a dashboard, leave requests, and a manager approval flow. Leave days are validated on both the frontend and the backend, and weekends are excluded.
-
-**DSA practice** &nbsp;`Java`<br/>
-Problem solutions in Java: [Striver A2Z DSA sheet](https://github.com/scalable-algorithms/striver-a2z-dsa) · [LeetCode](https://github.com/scalable-algorithms/leetcode)
-
----
-
-### 🌍 Open-source contributions
-
-**✅ Merged**
-- **Trino** — [Fixed wrong results in `max_by` / `min_by`](https://github.com/trinodb/trino/pull/31345) caused by stale null flags when a buffer was reused.
-- **Trino** — [MongoDB connector now reports missing tables correctly](https://github.com/trinodb/trino/pull/31132) when case-insensitive matching is off.
-
-**🔄 In review**
-- **Trino** — [Support the `NUMBER` type in SQL/JSON functions](https://github.com/trinodb/trino/pull/31181)
-- **Quarkus** — [Make Brotli4J optional to stop `UnsatisfiedLinkError` in apps using Apache HttpClient 5](https://github.com/quarkusio/quarkus/pull/56771)
-- **Apache Camel** — [Fix `NullPointerException` at route startup with `xtokenize`](https://github.com/apache/camel/pull/27316)
-- **Apache Camel** — [Accept media ranges like `application/*` in REST validation](https://github.com/apache/camel/pull/27315)
-
-<sub>👉 [See all my pull requests](https://github.com/search?q=author%3AchakravarthyBatna+is%3Apr+-user%3AchakravarthyBatna&type=pullrequests)</sub>
+👉 [See my open-source pull requests](https://github.com/search?q=author%3AchakravarthyBatna+is%3Apr+-user%3AchakravarthyBatna&type=pullrequests)
 
 ---
 
