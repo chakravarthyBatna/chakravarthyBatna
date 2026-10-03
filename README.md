@@ -18,12 +18,12 @@
 
 ### 🧑‍💻 About me
 
-I'm a backend engineer who likes the part of the job most people avoid: **reading unfamiliar code until the bug makes sense**.
+I'm a backend engineer at **WaveMaker**, a low-code platform that companies use to build enterprise web and mobile apps. I work on the Java / Spring Boot backend of the platform.
 
-- I work on Java backend systems at WaveMaker.
-- In my own time I contribute fixes to large open-source projects — a distributed SQL engine (**Trino**), a cloud-native Java framework (**Quarkus**), and an integration framework (**Apache Camel**).
-- I care about root causes, small focused patches, and tests that prove the fix.
-- Currently going deeper into **query engines, database internals, and concurrency**.
+- **At work:** I build and maintain backend features, REST APIs, and integrations used by WaveMaker's customers.
+- **Debugging:** I'm comfortable opening a large codebase I've never seen and tracing a problem down to its root cause.
+- **Open source:** in my free time, I fix bugs in well-known Java projects, reviewed and merged by their maintainers.
+- **Currently learning:** system design, building scalable REST APIs, and writing safe concurrent code in Java.
 
 ---
 
