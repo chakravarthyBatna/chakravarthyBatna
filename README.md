@@ -8,9 +8,6 @@
 
 **Backend Software Engineer at [WaveMaker](https://www.wavemaker.com)** · Java · Spring Boot · REST APIs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravarthybatna/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/chakravarthybatna/)
-
 </div>
 
 ---
