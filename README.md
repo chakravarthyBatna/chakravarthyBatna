@@ -3,14 +3,13 @@
 # Hi, I'm Chakravarthy Batna 👋
 
 <a href="https://github.com/chakravarthyBatna">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+Java+%26+Spring;Open-source+contributor+to+Trino%2C+Quarkus+%26+Camel;I+debug+the+hard+bugs+in+big+codebases" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=640&lines=Backend+Engineer+%C2%B7+Java+%26+Spring;Open-source+contributor+to+Java+projects;I+debug+the+hard+bugs+in+big+codebases" alt="Typing intro" />
 </a>
 
-**Backend Software Engineer at [WaveMaker](https://www.wavemaker.com)** · Java · Distributed systems · Databases
+**Backend Software Engineer at [WaveMaker](https://www.wavemaker.com)** · Java · Spring Boot · REST APIs
 
-[![Trino](https://img.shields.io/badge/Trino-2_PRs_merged-DD00A1?style=flat-square&logo=trino&logoColor=white)](https://github.com/trinodb/trino/pulls?q=is%3Apr+author%3AchakravarthyBatna)
-[![Quarkus](https://img.shields.io/badge/Quarkus-contributor-4695EB?style=flat-square&logo=quarkus&logoColor=white)](https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+author%3AchakravarthyBatna)
-[![Apache Camel](https://img.shields.io/badge/Apache_Camel-contributor-E97826?style=flat-square&logo=apache&logoColor=white)](https://github.com/apache/camel/pulls?q=is%3Apr+author%3AchakravarthyBatna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravarthybatna/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/chakravarthybatna/)
 
 </div>
 
@@ -81,11 +80,6 @@ I'm a backend engineer at **WaveMaker**, a low-code platform that companies use 
 Example: for the Quarkus Brotli issue, I built a minimal reproducer with only `quarkus-rest` and `httpclient5`, which showed the bug was in Quarkus' dependency scope — not in Camel, where it was first reported.
 
 ---
-
-### 📫 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakravarthybatna/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/chakravarthybatna/)
 
 <div align="center">
 <sub>Open to backend / platform engineering roles.</sub>
