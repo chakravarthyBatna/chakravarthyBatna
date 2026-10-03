@@ -67,8 +67,6 @@ I contribute bug fixes to large open-source Java projects used in production by 
  Merged PR ◄── Clear write-up for maintainers ◄── Smallest fix + tests
 ```
 
-Example: for the Quarkus Brotli issue, I built a minimal reproducer with only `quarkus-rest` and `httpclient5`, which showed the bug was in Quarkus' dependency scope — not in Camel, where it was first reported.
-
 ---
 
 <div align="center">
