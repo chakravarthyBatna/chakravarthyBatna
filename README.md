@@ -23,16 +23,30 @@ I'm a backend engineer at **WaveMaker**, a low-code platform that companies use 
 
 ---
 
+### 🚀 Featured projects
+
+**[Parking Lot System](https://github.com/system-design-studio/parking-lot-system)** &nbsp;`Java 21` `Spring Boot 3` `PostgreSQL`<br/>
+A parking-lot backend designed end to end: requirements, REST APIs, HLD, LLD, and database schema. Two cars can never get the same spot, because spot assignment takes a row lock in PostgreSQL (`SELECT … FOR UPDATE SKIP LOCKED`).
+
+**[Leave Management App](https://github.com/wm-chakravarthy/LeaveManagementAppSpringSecurity)** &nbsp;`Spring MVC` `Spring Security` `Spring Data JPA` `MySQL`<br/>
+An employee leave system with a dashboard, leave requests, and a manager approval flow. Leave days are validated on both the frontend and the backend, and weekends are excluded.
+
+**DSA practice** &nbsp;`Java`<br/>
+Problem solutions in Java: [Striver A2Z DSA sheet](https://github.com/scalable-algorithms/striver-a2z-dsa) · [LeetCode](https://github.com/scalable-algorithms/leetcode)
+
+---
+
 ### 🌍 Open-source contributions
 
-| Project | Contribution | Status |
-| :-- | :-- | :-: |
-| <img src="https://github.com/trinodb.png" width="16"/> **Trino** | [Fix corrupted results in `max_by`/`min_by` — flat row/array/map writers left stale null flags when reusing a buffer](https://github.com/trinodb/trino/pull/31345) | ✅ Merged |
-| <img src="https://github.com/trinodb.png" width="16"/> **Trino** | [MongoDB connector: report missing tables as *table not found* when case-insensitive matching is off](https://github.com/trinodb/trino/pull/31132) | ✅ Merged |
-| <img src="https://github.com/trinodb.png" width="16"/> **Trino** | [Support the `NUMBER` type in SQL/JSON functions (`json_object`, `json_array`, `json_value`)](https://github.com/trinodb/trino/pull/31181) | 🔄 In review |
-| <img src="https://github.com/quarkusio.png" width="16"/> **Quarkus** | [Make Brotli4J optional in `quarkus-vertx-http` — it caused `UnsatisfiedLinkError` in apps using Apache HttpClient 5](https://github.com/quarkusio/quarkus/pull/56771) | 🔄 In review |
-| <img src="https://github.com/apache.png" width="16"/> **Apache Camel** | [CAMEL-25262: fix `NullPointerException` at route startup when using `xtokenize`](https://github.com/apache/camel/pull/27316) | 🔄 In review |
-| <img src="https://github.com/apache.png" width="16"/> **Apache Camel** | [CAMEL-25187: accept media ranges like `application/*` in REST request validation](https://github.com/apache/camel/pull/27315) | 🔄 In review |
+**✅ Merged**
+- **Trino** — [Fixed wrong results in `max_by` / `min_by`](https://github.com/trinodb/trino/pull/31345) caused by stale null flags when a buffer was reused.
+- **Trino** — [MongoDB connector now reports missing tables correctly](https://github.com/trinodb/trino/pull/31132) when case-insensitive matching is off.
+
+**🔄 In review**
+- **Trino** — [Support the `NUMBER` type in SQL/JSON functions](https://github.com/trinodb/trino/pull/31181)
+- **Quarkus** — [Make Brotli4J optional to stop `UnsatisfiedLinkError` in apps using Apache HttpClient 5](https://github.com/quarkusio/quarkus/pull/56771)
+- **Apache Camel** — [Fix `NullPointerException` at route startup with `xtokenize`](https://github.com/apache/camel/pull/27316)
+- **Apache Camel** — [Accept media ranges like `application/*` in REST validation](https://github.com/apache/camel/pull/27315)
 
 <sub>👉 [See all my pull requests](https://github.com/search?q=author%3AchakravarthyBatna+is%3Apr+-user%3AchakravarthyBatna&type=pullrequests)</sub>
 
