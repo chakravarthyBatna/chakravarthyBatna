@@ -8,6 +8,8 @@
 
 **Backend Software Engineer at [WaveMaker](https://www.wavemaker.com)** · Java · Spring Boot · REST APIs
 
+[![My website](https://img.shields.io/badge/🌐_My_website-chakravarthybatna.github.io-5B8DEF?style=for-the-badge)](https://chakravarthybatna.github.io)
+
 </div>
 
 ---
